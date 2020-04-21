@@ -1,8 +1,6 @@
 # Location Tracking Application
 
-![Alt text](https://github.com/tuanphan23/Tracks/blob/master/assets/Login.png?raw=true "Login")
-![Alt text](https://github.com/tuanphan23/Tracks/blob/master/assets/TrackDetail.png?raw=true "TrackDetails")
-![Alt text](https://github.com/tuanphan23/Tracks/blob/master/assets/Tracking.png?raw=true "Tracking")
+<img src="https://github.com/tuanphan23/Tracks/blob/master/assets/Login.png" width="425" /> <img src="https://github.com/tuanphan23/Tracks/blob/master/assets/TrackDetail.png" width="425" /> <img src ="https://github.com/tuanphan23/Tracks/blob/master/assets/Tracking.png" width="425" />
 
 # How to run: 
 ## 1: Run Track-Server: <br />
